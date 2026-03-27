@@ -1,0 +1,31 @@
+20 Messy Sentences with Issues
+OMG!!! This movie is sooo gooood 😍🔥
+I cant belive this happend lol
+Broooo what r u doin??? 😂
+This product is lit af!!!
+Worst experiance ever... never buying again 😡
+Plz send me the details asap!!!
+I luv this place ❤️❤️
+Wht is this?? totally useless!!!
+Had a gr8 time wid frnds 😎
+This is not gud at all!!!
+LOL that was funny 😂😂😂
+I will c u tomorrow
+Ur service is too slow!!!
+This app is amazng but crashes alot
+Y r u late again??
+Totally worth it 💯
+Idk what to say...
+Best day everrrr!!! 😍
+This is sooo boring 😴
+Cant wait 4 the weekend!!!
+
+
+Preprocessing Needed 
+Convert text to lowercase → “OMG” → “omg”
+Remove emojis → 😍🔥😂
+Remove punctuation → !!! ???
+Correct spelling mistakes → “belive” → “believe”
+Expand slang/short forms → “u” → “you”, “ur” → “your”
+Remove extra repeated letters → “sooo” → “so”
+Handle abbreviations → “idk” → “I don’t know”

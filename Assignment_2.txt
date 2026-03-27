@@ -1,0 +1,32 @@
+Assignment: Real-Life AI Applications Used Daily
+10 Real-Life AI Applications & How ML Works Behind Them
+
+1️⃣ YouTube Recommendations
+Machine learning models analyze your watch history, likes, and viewing time to predict and recommend videos you’re likely to watch next.
+
+2️⃣ Google Search
+ML ranks search results by understanding intent, keywords, and past user behavior using ranking algorithms and NLP models.
+
+3️⃣ Instagram Feed
+AI analyzes posts you interact with (likes, shares, comments) and predicts what content should appear higher in your feed.
+
+4️⃣ Google Maps Traffic Prediction
+ML models analyze real-time GPS data from users to predict traffic congestion and suggest faster routes.
+
+5️⃣ Email Spam Filter (Gmail)
+Supervised learning models classify emails as spam or not spam based on patterns learned from labeled data.
+
+6️⃣ Voice Assistants (Siri / Google Assistant)
+Speech recognition models convert voice to text, and NLP models understand intent and generate appropriate responses.
+
+7️⃣ Netflix Recommendations
+Collaborative filtering predicts movies/shows based on similar users’ preferences and viewing patterns.
+
+8️⃣ Amazon Product Recommendations
+AI analyzes purchase history, browsing behavior, and similar users to suggest products you might buy.
+
+9️⃣ Face Unlock on Smartphones
+Computer vision models detect and compare facial features using deep learning to authenticate users.
+
+🔟 Online Payment Fraud Detection
+ML models detect unusual transaction patterns and flag suspicious activities in real-time.
