@@ -1,0 +1,38 @@
+# Assignment (27/03/2026)
+
+# Assignment Name: Semantic Meaning
+
+## Work Summary 
+
+In this assignment, the concept of **semantic similarity** was explored by analyzing pairs of words and understanding how closely their meanings are related. Semantic similarity refers to how similar two words are in terms of meaning, even if they are not exactly the same. The objective was to identify five pairs of words and explain their relationships based on meaning, context, and usage. Some word pairs may be synonyms (similar meaning), while others may be related contextually but not identical. This assignment helped demonstrate how natural language processing systems understand relationships between words, which is important in applications like search engines, chatbots, and recommendation systems. By analyzing word pairs, we gained a better understanding of how machines interpret language beyond exact word matching.
+
+
+
+## Word Pairs and Explanation
+
+1. **Car – Automobile**
+   These words are synonyms and have almost the same meaning. Both refer to a vehicle used for transportation.
+
+2. **Doctor – Hospital**
+   These words are not synonyms but are contextually related. A doctor works in a hospital, so they are semantically connected.
+
+3. **Happy – Joyful**
+   These words are very similar in meaning and represent positive emotions, making them semantically close.
+
+4. **Book – Library**
+   These words are related through context. A library is a place where books are stored and accessed.
+
+5. **Fast – Quick**
+   These are synonyms and represent speed, so they have high semantic similarity.
+
+
+
+# Learning / Outcomes (Points)
+
+* Learned the concept of **semantic similarity in NLP**
+* Understood the difference between **synonyms and contextual relationships**
+* Improved ability to **analyze meaning of words**
+* Learned how machines interpret **word relationships**
+* Gained basic understanding of **semantic analysis in real-world applications**
+
+

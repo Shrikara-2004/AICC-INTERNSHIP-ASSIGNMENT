@@ -1,0 +1,57 @@
+# Assignment (30/03/2026)
+
+# Assignment Name: Prompt Engineer
+
+## Work Summary 
+
+In this assignment, different types of prompts were designed and compared to understand how prompt quality affects AI-generated responses. The objective was to learn how to write effective prompts for tasks such as resume creation, business idea generation, and study planning. For each task, both weak and strong prompts were created. Weak prompts were vague and lacked details, while strong prompts were clear, specific, and included necessary context. The responses generated from these prompts were compared to observe the difference in quality, accuracy, and usefulness. It was observed that strong prompts produced more structured, relevant, and detailed outputs, whereas weak prompts resulted in generic or incomplete responses. This assignment demonstrated the importance of prompt engineering in interacting with AI systems and showed how better prompts lead to better results.
+
+---
+
+## Prompt Comparison
+
+### 1. Resume
+
+**Weak Prompt:**
+"Write a resume"
+
+**Strong Prompt:**
+"Create a professional resume for a final-year AIML student with skills in Python, Machine Learning, and Power BI, including projects and internships."
+
+---
+
+### 2. Business Idea
+
+**Weak Prompt:**
+"Give business idea"
+
+**Strong Prompt:**
+"Suggest a low-investment business idea for a college student in India, including target audience, required investment, and expected profit."
+
+
+### 3. Study Plan
+
+**Weak Prompt:**
+"Make study plan"
+
+**Strong Prompt:**
+"Create a 30-day study plan for CDS exam preparation covering English, GK, and Maths with daily topics and revision schedule."
+
+
+
+## Comparison Result
+
+* Weak prompts → vague, less useful output
+* Strong prompts → detailed, structured, and relevant output
+
+
+
+# Learning / Outcomes 
+
+* Learned the importance of **prompt engineering in AI interactions**
+* Understood the difference between **weak and strong prompts**
+* Learned how to write **clear and detailed prompts**
+* Observed how prompt quality affects **AI output quality**
+* Improved ability to **communicate effectively with AI systems**
+
+
